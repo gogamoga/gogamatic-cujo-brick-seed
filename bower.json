@@ -1,0 +1,29 @@
+{
+    "name": "gogamatic-cujo-seed",
+    "version": "0.0.1",
+    "homepage": "https://github.com/gogamoga/gogamatic-cujo-seed",
+    "authors": [
+        "gogamoga <gogamoga@gmail.com>"
+    ],
+    "description": "Seed project scaffold for gulp, cujojs and coffee development",
+    "main": "dist/index.js",
+    "keywords": [
+        "gulp",
+        "coffee",
+        "gogamatic"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "curl": "~0.8",
+        "wire": "~0.10",
+        "brick":""
+    }
+}

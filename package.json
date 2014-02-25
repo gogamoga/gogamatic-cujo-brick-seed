@@ -1,0 +1,44 @@
+{
+    "name": "gogamatic-cujo-seed",
+    "version": "0.0.1",
+    "description": "Seed project scaffold for gulp, cujojs and coffee development",
+    "main": "build/main.js",
+    "scripts": {
+        "test": "gulp test",
+        "compile": "gulp compile compile-tests",
+        "lint": "gulp lint lint-tests",
+        "start": "gulp start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gogamoga/gogamatic-cujo-seed.git"
+    },
+    "keywords": [
+        "coffee",
+        "coffeescript",
+        "coffee-script"
+    ],
+    "author": "gogamoga",
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "gitHead": "af499a1e99d5897ae465a4b8dc8d338c2289ab9f",
+    "devDependencies": {
+        "connect": "",
+        "gulp": "~3.5.2",
+        "gulp-load-plugins":"",
+        "gulp-coffee": "",
+        "gulp-cache":"",
+        "gulp-coffeelint":"",
+        "gulp-util": "",
+        "gulp-mocha": "",
+        "gulp-clean": "",
+        "gulp-cached":"",
+        "run-sequence":"",
+        "should":"",
+        "http":"",
+        "coffee-script": "latest",
+        "coffeelint": "~1.1.0",
+        "coffeelint-stylish": "latest",
+        "bower":""
+    }
+}
